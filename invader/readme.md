@@ -1,4 +1,4 @@
-How to install qz-invader.ino<br>
+<b>How to install qz-invader.ino</b><br>
 <br>
 open ino file<br> 
 save ino file like 'qz-invader'<br>
